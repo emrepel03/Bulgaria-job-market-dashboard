@@ -51,7 +51,7 @@ The final result is a Power BI dashboard that gives decision-makers immediate, a
 
 ## Dashboard Preview
 
-See full dashboard layout (PDF): [Bulgaria Tech Market Dashboard (PDF)](dashboard/BulgariaTechMarketDashboard.pdf)
+See full dashboard layout (PDF): [Bulgaria Tech Market Dashboard (PDF)](dashboard/BulgariaTechMarketDashboard.jpg)
 
 ---
 
