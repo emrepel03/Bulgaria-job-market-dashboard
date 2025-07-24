@@ -1,0 +1,568 @@
+skill,job_count
+Python,88
+Java,59
+SQL,56
+JavaScript,37
+C,36
+PostgreSQL,20
+Computer Science,19
+management,18
+Design,18
+Docker,18
+Linux,16
+Engineering,15
+Git,15
+Data,13
+Node.js,13
+SAP,12
+design,11
+TypeScript,11
+HTML,11
+testing,11
+Azure,11
+retail,11
+OOP,11
+cloud,10
+R,10
+CSS,10
+Excel,10
+less,10
+analysis,10
+hospitality,10
+data analysis,10
+C#,9
+Android,9
+automotive,9
+Banking,9
+iOS,9
+data,9
+access management,9
+Scrum,9
+MySQL,8
+data science,8
+Finance,8
+PowerPoint,8
+Business,8
+Microsoft,7
+C++,7
+English,7
+Insurance,7
+Quality Assurance,7
+React,7
+Software Engineering,6
+Statistics,6
+machine learning,6
+research,6
+Django,6
+Automotive,6
+Ubuntu,6
+test,5
+Angular,5
+ERP,5
+KDN,5
+Mathematics,5
+Business Administration,5
+Oracle,5
+PHP,5
+Project Management,5
+project management,5
+SQL Server,5
+Economics,5
+Spring Boot,5
+AWS,5
+Windows,5
+JSON,4
+API,4
+security,4
+data analytics,4
+KOSTAL,4
+Cloud,4
+quality assurance,4
+Ruby,4
+Bash,4
+agile,4
+software development,4
+Word,4
+data management,4
+Project,4
+Tableau,4
+Machine Learning,4
+Agile,4
+root cause analysis,4
+MongoDB,4
+HTML5,4
+SharePoint,4
+Javascript,4
+process improvement,4
+sales,4
+Product,3
+Python development,3
+Data Science,3
+Product Management,3
+product management,3
+development,3
+Apache,3
+data engineering,3
+Data Management,3
+web framework,3
+Enterprise,3
+AutoCAD,3
+Software Development,3
+debug,3
+automated testing,3
+Management,3
+internal audit,3
+Selenium,3
+architecture,3
+trading engine speed,3
+Security,3
+CRM,3
+payments,3
+Postman,3
+Artificial Intelligence,3
+Risk,3
+ASP.NET,3
+finance,3
+Accounting,3
+git,3
+Hibernate,3
+Business Intelligence,3
+test automation,3
+computer science,3
+SDLC,3
+ISO 9001,2
+Apache Kafka,2
+Test,2
+portfolio management,2
+Python to design,2
+Pandas,2
+Redux,2
+Power generation,2
+curtains,2
+Web API,2
+WordPress,2
+OTC,2
+Power BI,2
+Analysis,2
+control testing,2
+Salesforce,2
+Jira,2
+science,2
+Lambda,2
+Prometheus,2
+defense,2
+Responsive Design,2
+marketing,2
+Biology,2
+ETL,2
+OS,2
+QA methodologies,2
+business intelligence,2
+testing strategy,2
+data protection,2
+Manufacturing,2
+ERP optimization,2
+ANSI,2
+jQuery,2
+IP,2
+test methodologies,2
+VB.NET,2
+CUDA,2
+risk management,2
+Business Control Testing,2
+software design principles,2
+Revit,2
+procurement,2
+Risk Management,2
+XML,2
+business,2
+electrical engineering,2
+UI,2
+API design,2
+scrum,2
+2D drawings,2
+Electrical Engineering,2
+Microsoft Dynamics,2
+software installation,2
+Information Systems,2
+test management,2
+Microsoft Excel,2
+GPU,2
+Marketing,2
+Hyper-V,2
+insurance,2
+SSD,2
+Regression,2
+Spring,2
+video streaming,2
+ISO,2
+software testing,2
+test planning,2
+agribusiness,2
+Physics,2
+project planning,2
+Terraform,2
+Microsoft Office,2
+ERP systems,2
+Database Management,2
+ASP.NET MVC,2
+integration,2
+engineering,2
+Cassandra,2
+NumPy,2
+financial analysis,2
+genetics,2
+MariaDB,2
+design patterns,2
+Data centers,2
+data modeling,2
+KVM,2
+government,2
+Wordpress,2
+Chemistry,2
+Ansible,2
+Microsoft Office (Word,2
+Video,1
+design pattern,1
+manual,1
+accounting,1
+Java development,1
+database architecture,1
+NIST,1
+CMS,1
+SPC,1
+SOA,1
+Offensive Security,1
+Openstack,1
+Data Structures,1
+DNS,1
+Supply Chain,1
+data structures,1
+clinical,1
+Active Directory domain,1
+Google Cloud Platform,1
+purchasing,1
+geology,1
+Event services,1
+Adobe Analytics tools,1
+Mechanical Engineering,1
+POSIX,1
+healthcare,1
+Mobile Testing,1
+Python Scripting,1
+Econometrics,1
+data visualization,1
+planning,1
+Energy & Resources,1
+React Native,1
+civil,1
+Clinical,1
+Unix,1
+Research,1
+UX Design,1
+Informatica,1
+asset management,1
+Mocha,1
+Commercial Engineering,1
+Microsoft Azure,1
+user experience,1
+Microsoft Outlook,1
+Google Suite,1
+Development,1
+VMWare,1
+Microsoft Office 365,1
+e-commerce,1
+English language,1
+React JS,1
+Technical Support,1
+sql,1
+ISO 45001,1
+database management,1
+spreadsheets,1
+antivirus,1
+QA,1
+customer support,1
+Spotify,1
+Integration,1
+Java Development,1
+SEO,1
+business technology,1
+Python Coding Skills,1
+QA planning,1
+Team Leadership,1
+test programs,1
+rating analysis,1
+data mining,1
+Actuarial Sciences,1
+ISO 14001,1
+Quality Management,1
+credit products,1
+Customer Support,1
+regression,1
+Flask,1
+XFS,1
+continuous delivery,1
+docker,1
+object-oriented programming,1
+system,1
+ETL design,1
+reinforcement learning,1
+NTFS,1
+call analytics,1
+FDA,1
+English language skills,1
+R&,1
+Analytics,1
+Intelligence,1
+C# Development,1
+APIs,1
+RESTful APIs,1
+analytics,1
+software design patterns,1
+Data Analytics,1
+Medical Writing,1
+Waterfall,1
+Adobe Acrobat skills,1
+ansible,1
+programming skills,1
+Scala,1
+LinkedIn Learning,1
+Data Engineering,1
+HIPAA,1
+PowerShell,1
+LINQ,1
+COBOL,1
+Google Search Console,1
+coding,1
+Malware Analysis,1
+Data Analysis,1
+fraud prevention,1
+LIMS,1
+Scrum methodologies,1
+RDS,1
+Node,1
+Business Services,1
+Airflow,1
+manufacturing,1
+Java SDK,1
+Disaster Recovery,1
+GIT,1
+requirements analysis,1
+biotechnology,1
+Swift,1
+Google Analytics,1
+Linux distributions,1
+servers,1
+PHP 8,1
+mechanical engineering,1
+Microsoft Technologies,1
+Jscript,1
+Financial Services,1
+energy management,1
+Microsoft SQL Server,1
+JIRA,1
+web development,1
+data retention,1
+statistical modeling,1
+Xero,1
+information technology,1
+Financial,1
+Root Cause Analysis   Installation,1
+Supply Chain Management,1
+social media,1
+Incident Management,1
+software development life cycle,1
+onboarding,1
+AWS architecture,1
+oracle,1
+Computer science,1
+S3,1
+ASP MVC/,1
+XAML,1
+configuration,1
+Android Studio,1
+JDBC,1
+game management,1
+Google Cloud,1
+data processing,1
+test processes,1
+Content Management,1
+Mechanical,1
+OCR,1
+Logistics,1
+JavaScript language,1
+Microsoft Sentinel,1
+IT provisioning systems,1
+Civil,1
+Human Resources,1
+excel,1
+sports cards,1
+bash,1
+Data Modeling,1
+Google,1
+business analytics,1
+Kerberos,1
+economics,1
+BizTalk,1
+software engineering,1
+time management,1
+Model Management,1
+metallurgy,1
+process mapping,1
+HTTP,1
+Nuclear,1
+programming language,1
+syslog,1
+BI,1
+IoT,1
+SQL server,1
+connectors,1
+linux kernel mechanism,1
+Amazon Web Services,1
+Sales,1
+Electrical,1
+Office suite,1
+Sharepoint,1
+CSAT,1
+B testing,1
+Design patterns,1
+LDAP,1
+mining,1
+artificial intelligence,1
+Social Security Administration,1
+cloud security,1
+JAVA,1
+data standards,1
+SUSE,1
+Kotlin,1
+DVB-C,1
+big data,1
+Process Improvement,1
+measurement,1
+experimentation,1
+capacity planning,1
+product,1
+process adherence,1
+CSS3,1
+Linux Azure,1
+Sourcing,1
+agile development,1
+asset development,1
+IPS,1
+institutional services,1
+Puppet,1
+programming languages,1
+Data Architecture,1
+Apache Spark,1
+Anthropic,1
+Design Patterns,1
+Change Management,1
+PostrgeSQL,1
+financial technology,1
+Customer Satisfaction,1
+Computer Engineering,1
+Oracle DBA,1
+ESG,1
+QMS,1
+PostgreSQL setup,1
+API Management,1
+Windows development,1
+Electronics,1
+GCP,1
+threat modeling,1
+OOP design,1
+C# programming,1
+Object-oriented design,1
+Visual Studio,1
+Python programming language,1
+Python and Azure,1
+MS Office,1
+Solidity,1
+Product Marketing,1
+DLP,1
+reporting,1
+Lifestyle,1
+business analysis,1
+Information Technology,1
+Marketing Spoke model,1
+banking,1
+replication,1
+D,1
+identity protection,1
+APAC,1
+software development methodologies,1
+Workday Studio,1
+GPT,1
+Financial Engineering,1
+Active Directory,1
+IIS,1
+natural language processing,1
+SAS,1
+Functional,1
+Content Management Systems,1
+AJAX,1
+2D,1
+network,1
+transportation,1
+IT,1
+color,1
+password management,1
+SSIS,1
+Epic Games,1
+maintenance,1
+energy optimization,1
+linux,1
+MS Office Suite (Word,1
+Manual,1
+Angular UI,1
+formwork,1
+ASP.NET Core,1
+BIM,1
+postgreSQL,1
+Accounts Payable,1
+software,1
+Problem Management,1
+Product Development,1
+Storybook,1
+internal,1
+NET Framework,1
+supply chain planning,1
+ITIL,1
+BASH,1
+Microsoft applications,1
+API development,1
+ODI,1
+DVB-S,1
+retail intelligence,1
+variance analysis,1
+test design,1
+functional,1
+XCode,1
+Data Warehousing,1
+Agile methodologies,1
+agile methodologies,1
+Linux OS,1
+cloud platforms,1
+SAML,1
+GAAP,1
+MATLAB,1
+Product Engineering,1
+Microsoft Word,1
+Market Analysis,1
+marketing systems,1
+VPN,1
+JPA Query,1
+Apache Airflow,1
+Data Risk,1
+SQL proficiency,1
+OAuth,1
+Lua,1
+EC2,1
+mechanical,1
+Web,1
+web design,1
+Biostatistics,1
+Google Data Studio,1
+Software engineering,1
+Adobe Analytics,1
+contract management,1
