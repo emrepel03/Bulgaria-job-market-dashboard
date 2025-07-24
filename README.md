@@ -30,7 +30,7 @@ The final result is a Power BI dashboard that gives decision-makers immediate, a
   - Company hiring leaderboard
   - And more
 
-- **📁 Organized Repo Structure**
+- **Organized Repo Structure**
   - `data/`: raw, cleaned, and analyzed datasets
   - `scripts/`: scraping, cleaning, validation, loading
   - `notebooks/`: analysis and visualization planning
