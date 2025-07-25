@@ -2,7 +2,7 @@
 # Bulgaria Tech Job Market Intelligence Dashboard
 
 **Author**: Emre Pelzer  
-**Tools Used**: Python, SQL, Power BI, NLP (Flair), Selenium, Gradio  
+**Tools Used**: Python, SQL, Power BI, NLP (Flair), Gradio  
 **Target Audience**: Recruiters, hiring managers, tech professionals, and analysts interested in Bulgaria’s evolving tech job market.
 
 ---
@@ -18,7 +18,7 @@ The final result is a Power BI dashboard that gives decision-makers immediate, a
 ## Key Features & Highlights
 
 - **Custom Job Scraper**  
-  Built with **Selenium** and **BeautifulSoup**, enhanced by **Flair NLP** for automatic skill extraction. Includes a **Gradio UI** allowing users to filter jobs by city, experience level, work type, and more.
+  Built with **BeautifulSoup**, enhanced by **Flair NLP** for automatic skill extraction. Includes a **Gradio UI** allowing users to filter jobs by city, experience level, work type, and more.
 
 - **Full ETL Pipeline**  
   Includes Python scripts for cleaning, validating, and loading data into a structured **SQLite database** with well-defined schema.
