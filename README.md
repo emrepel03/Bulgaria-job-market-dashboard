@@ -20,6 +20,9 @@ The final result is a Power BI dashboard that gives decision-makers immediate, a
 - **Custom Job Scraper**  
   Built with **BeautifulSoup**, enhanced by **Flair NLP** for automatic skill extraction. Includes a **Gradio UI** allowing users to filter jobs by city, experience level, work type, and more.
 
+🔒 The full AI-powered LinkedIn scraper + GUI is available as a licensed product.
+Contact me or get access here: [Whop link]
+
 - **Full ETL Pipeline**  
   Includes Python scripts for cleaning, validating, and loading data into a structured **SQLite database** with well-defined schema.
 
